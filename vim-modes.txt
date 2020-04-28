@@ -1,0 +1,45 @@
+Modes In VIM Editor .
+
+[keyword] => [Mode]
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+i => Insert Mode (Edit From Current Cursor Location) .
+
+o => Insert Mode (Edit From Line After Cursor) .
+
+v => Visual Mode (Visual Selection Mode) .
+
+c => Change Mode (Change At Current Cursor Location) .
+
+w : Save (Write Updated Data) .
+
+wa : Save All File / Buffers .
+
+w <New_File_Name> OR :saveas <New_File_Name> => Save As New File Name .
+
+:q => Quit The Current Tab .
+
+:qa => Quit The All Tabs .
+
+:q! => Force Quit (Does Not Write OR Save Changes) .
+
+:wq OR :x => Save & Quit .
+
+:help OR :h => Help For Keywords Or Anything Related VIM Editor .
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Writing a File In VIM :
+
+(1) Open Terminal In Your Specified Directory OR You Can Go With GUI .
+
+(2) Type 'vi <file_name>' OR 'vim <file_name>' .
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+FOR MORE... 
+YOU CAN TYPE ':help' IN VIM EDITOR .
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
