@@ -1,0 +1,86 @@
+NAVIGATING On VIM Editor .
+
+[Keyword => Usage]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+h => Move Cursor Backward By 1 Character .
+
+l => Move Cursor Forward By 1 Character .
+
+j => Move Cursor On Next Line .
+
+k => Move Cursor On Previous Line .
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0 : First Character Of Line .
+
+^ : First Non-Blank Character Of Line .
+
+$ : Last Character Of Line .
+
+g_ : Last Character Of Line .
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+gg => Move Cursor On 1st Character Of First Line in File .
+
+G => Move Cursor On 1st Character Of Last Line in File .
+			OR
+:0 => Move Cursor On 1st Character Of First Line in File (0th Line) .
+
+:$ => Move Cursor On 1st Character Of Last Line in File .
+
+:<n> => Move Cursor On 'n'th Line in File .
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+H => Moves The Cursor On Top Line On Screen .
+
+M => Moves The Cursor On Middle Line On Screen .
+
+L => Moves The Cursor On Bottom Line On Screen .
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+zt => Scrolls The Current Screen at Top Where Cursor Remains As It Is .
+
+zz => Scrolls The Current Screen at Middle Where Cursor Remains As It Is .
+
+zb => Scrolls The Current Screen at Bottom Where Cursor Remains As It Is .
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CTRL + e => Shift Screen By 1 Line Downward .
+
+CTRL + y => Shift Screen By 1 Line Upward .
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CTRL + d => Moves The Cursor & Screen Downward By Half .
+
+CTRL + u => Moves The Cursor & Screen Upward By Half .
+
+CTRL + b => Moves The Cursor 1 Screen Backward .
+
+CTRL + f => Moves The Cursor 1 Screen Forward .
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<n>% => Moves 'n' Percent In File .
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# NAVIGATING IN INSERT / EDIT MODE :
+
+CTRL + x + CTRL + e => Shifts The Screen By 1 Line Downward .
+
+CTRL + x + CTRL + y => Shift The Screen By 1 Line Upward .
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FOR MORE... 
+YOU CAN TYPE ':help' IN VIM EDITOR .
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
