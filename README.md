@@ -19,9 +19,11 @@ All This Commands are Learned From Various Sites & Video Tutorials .
 
 (4) vim-auto-complete-commands.txt => Auto Completing a Word/Sentences .
 
-(5) vim-tabs.txt => Working In Tabs .
+(5) vim-grammar.txt => Grammar Used In VIM .
 
-(6) vim-split.txt => Working In Split Screens .
+(6) vim-tabs.txt => Working In Tabs .
+
+(7) vim-split.txt => Working In Split Screens .
 
 FOR MORE... 
 YOU CAN TYPE ':help' IN VIM EDITOR .
