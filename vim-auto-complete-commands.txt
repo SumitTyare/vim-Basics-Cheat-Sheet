@@ -1,0 +1,26 @@
+This Are The Commands For Auto-Completing a Word / Sentence In VIM Editor .
+
+This Commands Are Working In Insert / Edit Mode Also .
+This Gives All The Matches Related To Current Word In The Form Of List .
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CTRL + p => Search & Completes Previously Used Text In File / Files / Include Files / Imported Libraries .
+
+CTRL + n => Search & Completes Next Used Text In File Or Cursor .
+
+
+CTRL + x + CTRL + l => Search & Completes Line .
+
+CTRL + x + CTRL + p => Search & Completes Used Text In File / Files / Include Files / Imported Libraries (Previous) .
+
+CTRL + x + CTRL + n => Search & Completes Used Text In File / Files / Include Files / Imported Libraries (Next) .
+
+CTRL + x + CTRL + f => Search & Completes File Names In Current Buffer / Directory .
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FOR MORE... 
+YOU CAN TYPE ':help' IN VIM EDITOR .
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
