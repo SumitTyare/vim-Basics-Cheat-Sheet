@@ -1,0 +1,26 @@
+This Are Commands For Working In Multiple Tabs In VIM Editor .
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+:tabnew <File_Name> => Creating A New Tab With New File Name . You Can Only Enter ':tabnew' For Only Creating A New Tab .
+
+:tabclose OR :tabc OR :q => Closing Current Tab .
+
+:tabonly : Close All Tabs Except Current .
+
+:tabnext OR :tabn => Switching To Next Tab .
+
+:tabprevious OR :tabp OR :tabN => Switching To Previous Tab .
+
+:tabfirst => Switching To First Tab .
+
+:tablast OR :tabl => Switching To Last Tab .
+
+:tabfind OR :tabf => Find a Tab .
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FOR MORE... 
+YOU CAN TYPE ':help' IN VIM EDITOR .
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
