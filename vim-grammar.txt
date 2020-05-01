@@ -1,0 +1,90 @@
+This Is The Basic Grammar Used In VIM Editor .
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# VERBS in VIM :
+
+d => Delete .
+
+c => Change (Change The Cursor Character/Word & Enter In Insert Mode) .
+
+y => Yank (Copy) .
+
+p => Paste .
+
+
+
+dd => Deletes The Current Cursor Line .
+
+yy => Yank (Copy) Current Line .
+
+cc => Change Current Line .
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# NOUNS IN VIM (Motions) :
+
+w => Forward By Word .
+
+b => Backward By Word .
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# NOUNS IN VIM (Text Objects) :
+
+iw => Inside Word (Works From Anywhere In Word) .
+
+i" => Inside Double Quotes .
+
+ip => Inside Paragraph .
+
+as => A Sentence .
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# NOUNS IN VIM (Parameterized Text Objects) :
+
+f<Character> OR F<Character> => Find Next Character & Moves The Cursor At That Character .
+
+t<Character> OR T<Character> => Find Next Character & Moves The Cursor Just Before That Character .
+
+/<String> => Search Up To Next Match .
+
+* => Search Cursor Word Downwards In File .
+
+# => Search Cursor Word Upwards In File .
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# SEARCHING & REPLACING IN VIM :
+
+%s/<Search_String>/<Replace_String> => Search & Replaces On First Search In Line In Whole File .
+
+%s/<Search_String>/<Replace_String>/g => Search & Replaces In Whole File .
+
+<Range>s/<Search_String>/<Replace_String> => Search & Replace In Given Range On First Search In Line In Whole File .
+
+<Range>s/<Search_String>/<Replace_String>/g => Search & Replaces In Whole File .
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# COMBINING VERBS & NOUNS TOGETHER (Some Examples) :
+
+Syntax :	<VERB> + <NOUN>
+
+diw => Delete Inside Word .
+
+ciw => Change Inside Word .
+
+d<n>j => Delete Next 'n' Lines .
+
+y<n>k => Yank (Copy) Previous 'n' Lines .
+
+You Can Try Out More & More ...
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FOR MORE... 
+YOU CAN TYPE ':help' IN VIM EDITOR .
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
