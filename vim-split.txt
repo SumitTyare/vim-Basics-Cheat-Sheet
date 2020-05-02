@@ -1,0 +1,16 @@
+This Are Commands For Working In Multiple Tabs In VIM Editor .
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+:vsplit <File_Name> OR :vsp <File_Name> => Splitting The Screen Vertically With Given File . If You Do Not Enter File Name Then It Will Split Same File .
+
+:q => Close Current Split Screen .
+
+CTRL + w + h / l / j / k => Move Between Splits .
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FOR MORE... 
+YOU CAN TYPE ':help' IN VIM EDITOR .
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
